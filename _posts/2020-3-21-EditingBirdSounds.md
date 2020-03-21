@@ -12,18 +12,18 @@ audio editing program. Then I added it to this eBird which also goes into the Ma
 
 When you bring up the wav file in audacity. It first looks like this:
 
-![image](../images/Audacity1Waveform.jpg)
+![image](../images/Audacity1Waveform.JPG)
 
 Select Spectogram on the view window to the left and it will look like this:
 
-![image](../images/Audacity2Spectogram.jpg)
+![image](../images/Audacity2Spectogram.JPG)
 
 ## Clipping the sound to the portion of the recording you want
 
 Now I can see some interesting things. The brown creeper has a very high pitched call. Three calls can be seen at 12, 20 and 32 seconds.
 But there was some noise while I was starting and ending the recording so I want to cut that out. I wil cut out the first 7 seconds and the last 10 seconds.
 
-![image](../images/Audacity3Clipped.jpg)
+![image](../images/Audacity3Clipped.JPG)
 
 ## Using a filter to get the frequency of interest
 
@@ -33,7 +33,7 @@ A carolina wren is also singing at around 11 seconds.
 
 So we can safely edit out frequencies below 6000 Hz using a High Pass Filter. THe High Pass Filter passes every sound that is a higher frequency than what we specify. I will specify 6000 Hz. I specified the rolloff at 48 dB to filter the most sound as allowed by this filter.
 
-![image](../images/Audacity4HighPassFilter.jpg)
+![image](../images/Audacity4HighPassFilter.JPG)
 
 Note that for birds with lower pitched songs, we could also use a low pass filter to filter out everything lower than the value we specify. That is not useful for a brown creeper though!
 
@@ -41,7 +41,7 @@ Note that for birds with lower pitched songs, we could also use a low pass filte
 
 Now that I have the time and frequency of interest, I can normalize the sound that is left so that it can be heard at a consistent volume on eBird/Macaulay Library. The Macaulay library asks that we setting the peak level of our recordings to -3 dB. THis is easily done in Audacity by going to effects and selecting Normalize and setting peak amplitude to -3 dB.
 
-![image](../images/Audacity5Normalized.jpg)
+![image](../images/Audacity5Normalized.JPG)
 
 ## All done
 

@@ -48,7 +48,7 @@ I have a [Zoom H1N](https://www.zoom-na.com/products/field-video-recording/field
 
 ### In the field
 
-Using either recording device, record the bird of interest. Also create an ebird list so that you can add your recordings to it later. When I am recording, I usally like to say what I am recording at the beginning so that when I get home and process the files, it is easier to remember. I might say "Recording three red-tailed hawks."
+Using either recording device, record the bird of interest. Also create an ebird list so that you can add your recordings to it later. When I am recording, I usually like to say what I am recording at the beginning so that when I get home and process the files, it is easier to remember. I might say "Recording three red-tailed hawks."
 
 ### When you get home
 
