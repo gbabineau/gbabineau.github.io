@@ -1,9 +1,9 @@
 ---
 layout: post
-title: March 21, 2020, Recording bird sound
+title: March 21, 2020, Editing Bird Sounds
 ---
 
-Recording bird sounds is be fun and it is also useful for confirming bird identifications. It is also useful for science. Recently I was asked how I record the sounds so I put this short description together. This is not a step by step tutorial but does give ideas which should help a person edit their own recordings for adding to eBird.
+I talked in an earlier [post](2020-2-8-RecordingBirdSounds.md) about recording bird sounds. This post talks about editing them once recorded. This is not a step by step tutorial but does give ideas which should help a person edit their own recordings for adding to eBird.
 
 I was doing chores this morning in our back yard, which simultaneously listening to the birds. I did record a few of the birds. One was a brown creeper. I have an android phone and used the free 'RecForge' App. After recording I finished the chores. Later I headed inside, emailed the resulting .wav file from my phone to myself. That allowed me to open my email on my PC, save the file and open it with 'Audacity', a free
 audio editing program. Then I added it to this eBird which also goes into the Macaulay library. Click [here](https://macaulaylibrary.org/asset/216933511) to hear the results.

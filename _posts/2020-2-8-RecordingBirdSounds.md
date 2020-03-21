@@ -19,7 +19,7 @@ I also like recording the bird sounds and this post is to give a brief introduct
 
 ## Ethics
 
-It is my view that playing bird sounds in the field has a potential to disturb birds. Therefore, unless performing a bird survey where the method includes judicious and approved use of playing bird sounds, I do not use it. 
+It is my view that playing bird sounds in the field has a potential to disturb birds. Therefore, unless performing a bird survey where the method includes judicious and approved use of playing bird sounds, I do not use it.
 
 ## Recording devices
 
@@ -29,7 +29,7 @@ I use both my smart phone, for example to record those hawks, and a built-to-pur
 
 Recording with a smartphone works well. Here are some advantages
 
-* Usually, I have my smartphone with with me! One 
+* Usually, I have my smartphone with with me! One
 * The user interface is probably going to be easier than anything built for recording.
 * Its easy to add notes about the recording with the cellphone.
 
@@ -61,4 +61,4 @@ So you need to edit the files. Luckily there are lots of ways to do this.
 
 I use [Audacity](https://www.audacityteam.org/) which is a free audio editor available on most operating systems (such as Windows, Apple, Linux). There are audio editors on smart phones, and one can do some editing on the recording device. But a computer is easier.
 
-I'll cover that in another post.
+I'll cover that in another [post](2020-3-21-EditingBirdSounds.md).
