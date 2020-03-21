@@ -39,7 +39,7 @@ Note that for birds with lower pitched songs, we could also use a low pass filte
 
 ## Normalizing the sound
 
-Now that I have the time and frequency of interest, I can normalize the sound that is left so that it can be heard at a consistent volume on eBird/Macaulay Library. The Macaulay library asks that we setting the peak level of our recordings to -3 dB. THis is easily done in Audacity by going to effects and selecting Normalize and setting peak amplitude to -3 dB.
+Now that I have the time and frequency of interest, I can normalize the sound that is left so that it can be heard at a consistent volume on eBird/Macaulay Library. The Macaulay library asks that we set the peak level of our recordings to -3 dB. THis is easily done in Audacity by going to effects and selecting Normalize and setting peak amplitude to -3 dB.
 
 ![image](../images/Audacity5Normalized.JPG)
 
