@@ -6,7 +6,7 @@ title: March 21, 2020, Editing Bird Sounds
 I talked in an earlier [post](2020-2-8-RecordingBirdSounds.md) about recording bird sounds. This post talks about editing them once recorded. This is not a step by step tutorial but does give ideas which should help a person edit their own recordings for adding to eBird.
 
 I was doing chores this morning in our back yard, which simultaneously listening to the birds. I did record a few of the birds. One was a brown creeper. I have an android phone and used the free 'RecForge' App. After recording I finished the chores. Later I headed inside, emailed the resulting .wav file from my phone to myself. That allowed me to open my email on my PC, save the file and open it with 'Audacity', a free
-audio editing program. Then I added it to this eBird which also goes into the Macaulay library. Click [here](https://macaulaylibrary.org/asset/216933511) to hear the results.
+audio editing program. Then I added it to this eBird which also goes into the Macaulay library. Click [here](https://macaulaylibrary.org/asset/216933511) to hear the results. You will need to be able to hear high frequencies to hear this.
 
 ## Changing to a spectogram
 
