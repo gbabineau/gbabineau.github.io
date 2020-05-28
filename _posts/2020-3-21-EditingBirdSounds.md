@@ -25,19 +25,21 @@ But there was some noise while I was starting and ending the recording so I want
 
 ![image](../images/Audacity3Clipped.JPG)
 
-## Using a filter to get the frequency of interest
+## Using a filter to get the frequency of interest (only if needed)
 
-The spectogram shows a lot of sounds at the lower end of the frequency. Road noise and other people sounds are down there but bird song rarely is. Normally you can always eliminate frequencies below 400 Hz for song birds without losing any of their sounds. But the creepers sounds are at a very high frequency, above 6500 Hz.
+The spectogram shows a lot of sounds at the lower end of the frequency. Road noise and other people sounds are down there but bird song rarely is.
+Ideally you can upload your sounds unfiltered because there may be sounds at the lower frequencies that are of scientific interest.
+But there is a lot in this recording at lower frequencies and it is really hard to hear the creeper.  The creeper sounds are at a very high frequency, above 6500 Hz, so one way to isolate the creeper sounds is to edit out the lower frequencies.
 
 A carolina wren is also singing at around 11 seconds.
 
-So we can safely edit out frequencies below 6000 Hz using a High Pass Filter. THe High Pass Filter passes every sound that is a higher frequency than what we specify. I will specify 6000 Hz. I specified the rolloff at 48 dB to filter the most sound as allowed by this filter.
+So we can safely edit out frequencies below 6000 Hz using a High Pass Filter. The High Pass Filter passes every sound that is a higher frequency than what we specify. I will specify 6000 Hz. I specified the rolloff at 48 dB to filter the most sound as allowed by this filter.
 
 ![image](../images/Audacity4HighPassFilter.JPG)
 
 Note that for birds with lower pitched songs, we could also use a low pass filter to filter out everything lower than the value we specify. That is not useful for a brown creeper though!
 
-## Normalizing the sound
+## Normalizing the sound (always do this)
 
 Now that I have the time and frequency of interest, I can normalize the sound that is left so that it can be heard at a consistent volume on eBird/Macaulay Library. The Macaulay library asks that we set the peak level of our recordings to -3 dB. THis is easily done in Audacity by going to effects and selecting Normalize and setting peak amplitude to -3 dB.
 
