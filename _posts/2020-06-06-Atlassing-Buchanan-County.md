@@ -3,8 +3,6 @@ layout: post
 title: June 6, 2020, Atlassing Buchanan County, Part 1
 ---
 
-## The Role of Privilege in Volunteer Citizen Science
-
 This post describes my participation in volunteer citizen science activity related to birding (bird watching) in Buchanan County, Virginia. Especially as highlighted by recent events, it is important to recognize the unearned privilege that I, as a white man receive in that I am able to go to public areas in the United States with a feeling of welcome and safety. Better than my description, read the [interview](https://www.nytimes.com/2020/05/27/nyregion/amy-cooper-christian-central-park-video.html) transcription from Christian Cooper who was accosted in New York's Central Park while birding. The consequences of racism in this country are serious. Ahmaud Arbery was [murdered](https://www.nytimes.com/article/ahmaud-arbery-shooting-georgia.html) in Georgia while jogging. And the arrival of the police can result in death, as it did for [George Floyd](https://www.nytimes.com/2020/05/31/us/george-floyd-investigation.html). I on the other hand have received only polite inquiries and even offers of assistance while doing this citizen science project. *It is my fervent desire that anyone regardless of race or gender be able to feel at least as safe and welcome as I have in visiting these beautiful parts of Virginia.* While performing this volunteer work, I also shared and encouraged participation in [Black Birders Week](https://www.npr.org/2020/06/03/869052336/-blackbirdersweek-seeks-to-make-the-great-outdoors-open-to-all) with other atlas volunteers and my social media outlets. 
 
 ## Acknowledgments
