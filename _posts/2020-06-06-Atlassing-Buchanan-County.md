@@ -9,13 +9,16 @@ This post describes my participation in volunteer citizen science activity relat
 
 I am grateful to Buchanan County standout birders Daryl Owens and Roger Mayhorn. Daryl wrote an excellent [description](https://birdingvirginia.org/buchanan) of area birding, and Roger is the president of the [Buchanan County Bird Club](https://sites.google.com/site/buchananbirds/). Both Daryl and Roger provided welcome assistance in best access to locations in the area. Roger invited me to visit his gorgeous yard and property which he has transformed over time into a haven for birds with native plantings and bird-friendly features. We were all three able to visit while maintaining appropriate distance (because of COVID-19).
 
+![image](../images/20200601BuchananViewCompressed.jpg)
+
 ## Introduction
 
-Highlights of the trip included:
+While world and national events have taken on greatest importance on this trip, I have continued the volunteer effort I started while also supporting #BlackBirdersWeek. Highlights of the trip included:
 
 * Finding the first Alder Flycatcher reported on eBird for the county
 * Making some mistakes and hopefully learning from them
 * Getting to meet some great people
+* Listening and learning from black voices
 
 ### The 2nd Virginia Breeding Bird Atlas 
 
@@ -29,8 +32,6 @@ The 2nd Virginia Breeding Bird Atlas[(VABBA2)](https://ebird.org/atlasva/home) i
 ## Volunteer focus
 
 The objective in going to Buchanan county was to assist the birders living in the area with the monumental task of surveying the priority blocks of the county. Counties with more residents, and therefore more birders, are well covered after four years of atlassing, but counties with fewer residents still need more volunteer effort. 
-
-![image](images/20200601BuchananViewCompressed.jpg)
 
 Priority Blocks require a certain amount of attention before being considered "complete." Once complete, no more effort is required in that block and atlassers are meant to focus their attention elsewhere. Of course if one happens to notice breeding confirmation in a "complete" block, one should still enter it. For example, the block Susan and I live in is considered complete but when we found a red-shouldered hawk nest in the neighborhood, we still added it. The [2020 summer blockbusting completion criteria](https://ebird.org/atlasva/news/volunteer-guidance-for-final-2020-field-season) are:
 
@@ -49,6 +50,6 @@ With these in mind, the first three blocks in the table were identified for the 
 | Patterson SE | 2.8  | 61 | 46% | TBD | TBD | TBD | NA |
 | *Prater SE*  | 1.63 | 27 | 19% | TBD | TBD | TBD | TBD |
 
-The table will be completed in a future post [See](). This effort will also include a nighttime nightjar survey of those blocks except for Patterson SE because another birder has performed surveys in the block but they are not yet in the dataset.
+The table will be completed in a future post [See](). This effort will also include a nighttime nightjar survey of those blocks except for Patterson SE because another birder has performed surveys in the block but they are not yet in the dataset. In the next post, I will describe the surprise I had when I heard what I thought was an Adler Flycatcher.
 
-In the next post, I will describe the surprise I had when I heard what I thought was an Adler Flycatcher.
+As I write this post, the trip is nearly over. Overall my thoughts keep returning to the importance of the focus that #BlackBirdersWeek brings to the fact that not everyone could do a trip with the same feeling of safety and welcome that I have felt. It is my fervent hope that all may be able to do so soon.
