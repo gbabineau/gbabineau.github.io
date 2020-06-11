@@ -14,4 +14,4 @@ This table summarizes the results. My objective was to complete the first 3. The
 | Patterson SE | 2.8  | 61 | 46% |  8.3 | 69 | *49%* | *NA* |
 | *Prater SE*  | 1.63 | 27 | 19% |  5.1 | 48 | *48%* | np |
 
-*The Prater SE block has additional data from another surveyor which is why it is completed without meeting the percentage requirement.*
+*The Patterson SE block has additional data from another surveyor which is why it is completed without meeting the percentage requirement.*
