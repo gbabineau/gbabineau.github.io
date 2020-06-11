@@ -6,3 +6,6 @@ I based this bloc on Jekyll Now. **Jekyll** is a static site generator that's pe
 
 ## Like buttons
 
+See the results
+
+https://likebtn.com/en/customer.php/statistics?domain=gbabineau.github.io
