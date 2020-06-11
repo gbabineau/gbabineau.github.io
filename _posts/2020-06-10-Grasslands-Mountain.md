@@ -3,11 +3,7 @@ layout: post
 title: June 10, 2020, Atlassing Buchanan County, Part 4, Grasslands in the Mountains
 ---
 
-As I discussed in the [introduction] to this series of posts, Buchanan county has some interesting habitat - these are grasslands where mountains were removed during surface mining for coal. These recovered areas are flatter and have successional habitat different than the surrounding woodlands. In one area, recovery includes [reintroduction of Elk](https://www.yesmagazine.org/issue/dirt/2019/04/13/land-recovery-elk-wildlife-habitat-appalachia/) after being extirpated in Virginia 100 years ago.
-
-## Elk
-
-I was glad to see a few Elk. Two I saw early one morning and another I saw while hiking a more remote trail during the day.
+As I discussed in the [introduction] to this series of posts, Buchanan county has some interesting habitat - these are grasslands where mountains were removed during surface mining for coal. These recovered areas are flatter and have successional habitat different than the surrounding woodlands. In one area, recovery includes [reintroduction of Elk](https://www.yesmagazine.org/issue/dirt/2019/04/13/land-recovery-elk-wildlife-habitat-appalachia/) after being extirpated in Virginia 100 years ago. I was glad to see a few Elk. Two I saw early one morning and another I saw while hiking a more remote trail during the day.
 
 ![Elk](https://static.inaturalist.org/photos/77812491/medium.jpeg?1591714820)
 
